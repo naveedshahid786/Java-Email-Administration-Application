@@ -2,4 +2,4 @@
 Java Email Account Creating App - School Project
 
 #### Project Details
-![](JavaEmail.JPG)
+![Hi](JavaEmail.JPG)
